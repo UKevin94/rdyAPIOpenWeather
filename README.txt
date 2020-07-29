@@ -6,10 +6,9 @@ Les tests sont exécutés sur OpenWeather et ne nécessite pas d'autres configur
 
 Ce projet comporte deux tests, le principe de chaque test est le même :
 
-1. Ecriture dans un fichier des informations nécessaires pour l'API (ReadyAPI only)
-2. Lecture depuis le fichier des informations pour les injecter dans des propriétés
-3. Utilisation des propriétés pour accéder au service avec les bons paramètres
-4. Assertion sur le retour de l'API
+1. Lecture depuis un fichier xls des informations à injecter
+2. Utilisation des propriétés pour accéder au service avec les bons paramètres
+3. Assertion sur le retour de l'API
 
 Le premier test weatherByCityTest se termine en succès.
 

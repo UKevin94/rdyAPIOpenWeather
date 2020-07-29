@@ -2,4 +2,3 @@ target/
 .idea/
 *.iml
 WeatherSuite*
-resources/sample.xls
