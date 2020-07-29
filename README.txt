@@ -2,7 +2,7 @@ Projet utilisant JUnit Jupiter afin d'exécuter des tests ReadyAPI (SoapUI Pro).
 
 La machine exécutant les tests doit avoir une installation de ReadyAPI, notamment pour les vérifications de licence.
 
-Les tests sont exécutés sur OpenWeather et ne nécessite pas d'autres configurations.
+Les tests sont exécutés sur OpenWeather et ne nécessitent pas d'autres configurations.
 
 Ce projet comporte deux tests, le principe de chaque test est le même :
 
